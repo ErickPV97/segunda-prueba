@@ -16,7 +16,7 @@ int main()
 
     scanf("%d",&b);
 
-    resultado=a+b;
+    resultado=a-b;
 
     printf("\n El resultado es: %d",resultado);
 
